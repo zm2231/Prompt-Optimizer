@@ -2,7 +2,7 @@
 
 This plan outlines over 50 detailed steps guiding the manual coding and integration process of the macOS app.
 
-1. [ ] Install Node.js, npm, and Git; initialize the project repository.
+1. [ ] Install Node.js, npm, and GitHub; initialize the project repository.
 2. [ ] Create and configure the project directory with a package.json file.
 3. [ ] Install Electron as a development dependency and set up the basic app structure (main process, renderer process, index.html).
 4. [ ] Configure the start script in package.json and test the initial Electron window.

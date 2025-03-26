@@ -1,0 +1,19 @@
+{
+  "name": "prompt-optimizer",
+  "version": "0.1.0",
+  "description": "A macOS application for creating, managing, and optimizing prompts for AI systems",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "prompt",
+    "ai",
+    "optimizer",
+    "macos"
+  ],
+  "author": "Zain Merchant",
+  "license": "MIT"
+}
